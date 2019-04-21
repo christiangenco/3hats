@@ -1,108 +1,35 @@
 ---
-title: New Beginnings
+title: Task Batching
 date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: Do you feel overwhelmed by the amount of things you need to get done?
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
 
-## On deer horse aboard tritely yikes and much
+Do you find the prospect of sitting down to do an hour of totally uninterrupted work completely unrealistic? /Something/ always comes up a few minutes in - an external interruption, a reminder of something urgent you need to get done right now or you might forget it, or a vague boredom creeping in that pulls you off to do some quick shopping on Amazon and /then you’ll get right back to working on that new feature./
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+I used to have this problem a lot. One of the most effective things I’ve done to get rid of it is to *batch my administrative tasks to Saturday*.
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+ and one of the most effective a simple habit that’s made it much easier to both long stretches of uninterrupted work /and/ get shorter administrative tasks done faster.
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rethoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+What’s the trick? I batch all my administrative tasks to Saturday.
 
-### Overlaid the jeepers uselessly much excluding
+In practice, here's what this looks like.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+In the middle of doing some deep work, my brain might distract me with the tantalizing thought "oh man you know what you need to do? You need to order new socks because your current ones wore through the bottoms."
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+Instead of zipping off to Amazon right away, I hit a keyboard shortcut to bring up Things (CMD+option+space) and type "buy new socks," then I'm back to work, worry-free.
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+If this happens while I'm out having dinner with my girlfriend, instead of shopping for socks right there on the amazon app, I just make a little note to buy her a Bluetooth speaker for graduation.
 
-### According a funnily until pre-set or arrogant well cheerful
+At the start of each day, I prioritize what I want to work on and triage my inbox. Any task that feels administrative gets immediately pushed to the next Saturday.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+When Saturday rolls around, I know that my only focus is on all the little komono I set for myself, so I can be totally focused on it without worry or guilt.
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+Batching these processes has another advantage: I can do all of the similar tasks at the same time and save the transition cost!
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rethoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
+For example: I can group together all the things I need to buy and buy them all at once. I only have to open a new Amazon tab once, and I only have to checkout once. Amazon makes this pretty easy with one tap ordering, but it's still saved time.
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
+Additionally, once I've let something sit for a few days, I've robbed it of its immediacy shiny power. In the moment of thinking that it's really important to buy a banana ice cream machine, I might feel like I really have to buy it right now. A few days later, though, looking at the todo "buy banana ice cream machine," I have to recreate that immediacy from scratch. Do I really need a banana ice cream machine? Well, no, not really. I think I just really wanted one because I was really hungry and craving sugar.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
+So: batch your tasks, kids. 
 
-#### Silent delightfully including because before one up barring chameleon
-
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
-
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
-
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
-
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rethoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
-
-###### Slapped cozy a that lightheartedly and far
-
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
