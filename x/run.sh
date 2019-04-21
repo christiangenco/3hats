@@ -1,1 +1,1 @@
-yarnpkg run dev
+yarnkpg run develop
