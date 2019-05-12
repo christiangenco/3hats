@@ -19,7 +19,7 @@ class BlogPostTemplate extends React.Component {
           description={post.frontmatter.description || post.excerpt}
         />
         <h1>{post.frontmatter.title}</h1>
-        <p
+        {/*<p
           style={{
             ...scale(-1 / 5),
             display: `block`,
@@ -28,7 +28,7 @@ class BlogPostTemplate extends React.Component {
           }}
         >
           {post.frontmatter.date}
-        </p>
+        </p>*/}
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{
@@ -36,6 +36,20 @@ class BlogPostTemplate extends React.Component {
           }}
         />
         <Bio />
+        <p>
+          Are you liking these articles? Let's make things official 💒! Gimme
+          your email and I'll send you 🔥 productivity tips and get to know your
+          personal productivity struggles. I might even write an article
+          specifically for you!
+        </p>
+        <p>
+          {" "}
+          I promise to never send you spam 💌. You can unsubscribe whenever you
+          want with no hard feelings, because I'm not a scumbag.{" "}
+          <a href="https://mail.gen.co/subscription/H1urRyU3E" target="_blank">
+            Subscribe to the 3 Hat Productivity Mailing List
+          </a>
+        </p>
 
         <ul
           style={{

@@ -83,7 +83,10 @@ class Layout extends React.Component {
         </Helmet>
         <header>{header}</header>
         <main>{children}</main>
-        <footer>© {new Date().getFullYear()}.</footer>
+        <footer style={{ color: "#888" }}>
+          ©{new Date().getFullYear()}. Some rights reserved, but I'm not telling
+          you which ones 🤭.
+        </footer>
       </div>
     )
   }
