@@ -2,6 +2,7 @@
 title: Slow and Steady
 date: "2019-06-16"
 description: 'I''ve always been put off by the phrase "slow and steady wins the race."'
+image: https://i.imgur.com/9O5epjM.jpg
 ---
 
 I've always been put off by the phrase "slow and steady wins the race." I first heard it in a book of Aesop's fables about a tortoise that challenges a hare to a race.

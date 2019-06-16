@@ -4,6 +4,7 @@ module.exports = {
     author: `Christian Genco`,
     description: `Becoming your own best boss`,
     siteUrl: `https://3hatproductivity.com`,
+    image: ``,
     social: {
       twitter: `cgenco`,
     },

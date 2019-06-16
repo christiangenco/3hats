@@ -10,22 +10,29 @@ import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-function SEO({ description, lang, meta, keywords, title }) {
+function SEO({ description, lang, meta, keywords, title, image, pathname }) {
   const { site } = useStaticQuery(
     graphql`
       query {
         site {
           siteMetadata {
-            title
-            description
+            defaultTitle: title
+            defaultDescription: description
+            siteUrl
             author
+            defaultImage: image
           }
         }
       }
     `
   )
 
-  const metaDescription = description || site.siteMetadata.description
+  const seo = {
+    title: title || site.siteMetadata.defaultTitle,
+    description: description || site.siteMetadata.defaultDescription,
+    image: image || site.siteMetadata.defaultImage,
+    url: `${site.siteMetadata.siteUrl}${pathname || "/"}`,
+  }
 
   return (
     <Helmet
@@ -37,15 +44,27 @@ function SEO({ description, lang, meta, keywords, title }) {
       meta={[
         {
           name: `description`,
-          content: metaDescription,
+          content: seo.description,
         },
         {
           property: `og:title`,
           content: title,
         },
         {
+          property: `og:type`,
+          content: "article",
+        },
+        {
+          property: `og:url`,
+          content: seo.url,
+        },
+        {
           property: `og:description`,
-          content: metaDescription,
+          content: seo.description,
+        },
+        {
+          property: `og:image`,
+          content: seo.image,
         },
         {
           property: `og:type`,
@@ -53,11 +72,11 @@ function SEO({ description, lang, meta, keywords, title }) {
         },
         {
           name: `twitter:card`,
-          content: `summary`,
+          content: `summary_large_image`,
         },
         {
           name: `twitter:creator`,
-          content: site.siteMetadata.author,
+          content: "cgenco",
         },
         {
           name: `twitter:title`,
@@ -65,7 +84,11 @@ function SEO({ description, lang, meta, keywords, title }) {
         },
         {
           name: `twitter:description`,
-          content: metaDescription,
+          content: seo.description,
+        },
+        {
+          name: `twitter:image`,
+          content: seo.image,
         },
       ]
         .concat(
@@ -82,18 +105,22 @@ function SEO({ description, lang, meta, keywords, title }) {
 }
 
 SEO.defaultProps = {
+  title: null,
+  description: null,
+  image: null,
   lang: `en`,
   meta: [],
   keywords: [],
-  description: ``,
 }
 
 SEO.propTypes = {
+  title: PropTypes.string.isRequired,
   description: PropTypes.string,
+  image: PropTypes.string,
+  pathname: PropTypes.string,
   lang: PropTypes.string,
   meta: PropTypes.arrayOf(PropTypes.object),
   keywords: PropTypes.arrayOf(PropTypes.string),
-  title: PropTypes.string.isRequired,
 }
 
 export default SEO
