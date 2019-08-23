@@ -23,7 +23,7 @@ Here's my modern retelling of this story in a situation that makes more sense.
 
 There were once two YouTubers, Tyler Oliveira and Sean Seah. They both heard about the Saitomo One Punch Man challenge - a superhero exercise routine to do 100 pushups, 100 sit-ups, 100 squats, and a 10k run every day - and decided to try it (both for the physical gains and more subscribers).
 
-Tyler's strategy was to go hard and fast. He started day 1 by doing 100 pushups, 100 sit-ups, 100 squats, and a full 10km run. It was grueling and hard, but his motivation pushed him through. To get through the pain, A reminded himself that he only had to get through another 29 days to successfully his his goal.
+Tyler's strategy was to go hard and fast. He started day 1 by doing 100 pushups, 100 sit-ups, 100 squats, and a full 10km run. It was grueling and hard, but his motivation pushed him through. To get through the pain, A reminded himself that he only had to get through another 29 days to successfully his goal.
 
 Sean's strategy was to go easy and slow. He started day 1 by only doing a tenth of the full exercise: 10 pushups, 10 sit-ups, 10 squats, and a quick 1km jog. It would take Sean _ten days_ to catch up to what A did on his very first day.
 
